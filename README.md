@@ -3,10 +3,21 @@
 
 ---
 
-**I'm currently working on a [Cloud CRM+ERP](https://imprintmint.com) for small businesses specializing in custom apparel decoration, signage, printing, & vehicle wraps.**
+I own and operate a custom apparel decoration, signage, printing, & vehicle wrap
+[business](https://shirtsandsigns.us).
 
-*Also, I own and operate [just such a business](https://shirtsandsigns.us/).*
+Currently, I'm working on developing the necessary skills required to make a
+career change into the field of software development.
+
+You can view the current state of my educational progress toward this goal in my
+public [Knowledge Log repository](https://github.com/mjkjr/knowledge-log).
+
+You can contact me via: [my personal website](https://mjkjr.com).
 
 ---
 
-[Personal Website](https://mjkjr.com)
+[GitHub](https://github.com/mjkjr) |
+[CodePen](https://codepen.io/mjkjr/) |
+[freeCodeCamp](https://www.freecodecamp.org/mjkjr) |
+[Codewars](https://www.codewars.com/users/mjkjr) |
+[LinkedIn](https://www.linkedin.com/in/mjkjr/)

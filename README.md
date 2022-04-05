@@ -10,7 +10,7 @@ Currently, I'm working on developing the necessary skills required to make a
 career change into the field of software development.
 
 You can view the current state of my educational progress toward this goal in my
-public [Knowledge Log repository](https://github.com/mjkjr/knowledge-log).
+public [Knowledge Log](https://github.com/mjkjr/knowledge-log).
 
 You can contact me via: [my personal website](https://mjkjr.com).
 

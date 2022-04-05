@@ -3,6 +3,8 @@
 
 ---
 
+Hi, I'm Michael J. Kozubal Jr. and I'm an entrepreneur and software developer.
+
 I own and operate a custom apparel decoration, signage, printing, & vehicle wrap
 [business](https://shirtsandsigns.us).
 

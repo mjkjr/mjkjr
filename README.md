@@ -20,5 +20,4 @@ You can contact me via: [my personal website](https://mjkjr.com).
 [CodePen](https://codepen.io/mjkjr/) |
 [freeCodeCamp](https://www.freecodecamp.org/mjkjr) |
 [Codewars](https://www.codewars.com/users/mjkjr) |
-[Edabit](https://edabit.com/user/4QXooTfP97tnnBkHb) |
 [LinkedIn](https://www.linkedin.com/in/mjkjr/)

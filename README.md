@@ -6,8 +6,8 @@
 I own and operate a custom apparel decoration, signage, printing, & vehicle wrap
 [business](https://shirtsandsigns.us).
 
-Currently, I'm working on developing the necessary skills required to make a
-career change into the field of software development.
+Currently, I'm working on re-developing the website using SvelteKit to add a new
+e-commerce front-end and an Order Mmanagement System (OMS) back-end.
 
 You can contact me via: [my personal website](https://mjkjr.com).
 
